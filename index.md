@@ -1,5 +1,5 @@
 # This is the Faith and Technology Initiative
-A project by Calvin University students to explore the intersection of technological creation and the ultimate Creator.
+_A project by Calvin University students to explore the intersection of technological creation and the ultimate Creator._
 
 ## Who are we, and what do we want?
 We are a collection of students at Calvin University interested in the intersection between faith and technology. Our goal is to bring interest from students, faculty, and professionals regarding the roles that technology can play in a Christian life.
